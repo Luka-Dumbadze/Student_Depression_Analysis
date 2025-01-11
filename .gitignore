@@ -1,0 +1,22 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.env
+
+# IDE configurations
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+
+# Build files
+dist/
+build/
+*.egg-info/
