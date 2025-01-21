@@ -291,7 +291,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 1411,Male,24.0,Kolkata,Student,5.0,0.0,9.6,4.0,0.0,3.0,Moderate,M.Pharm,No,8.0,3.0,No,0
 1417,Female,22.0,Varanasi,Student,2.0,0.0,9.54,3.0,0.0,4.0,Healthy,BBA,Yes,10.0,3.0,No,1
 1425,Male,34.0,Agra,Student,1.0,0.0,9.97,5.0,0.0,4.0,Moderate,BCA,No,0.0,5.0,No,0
-1428,Male,29.0,Srinagar,Student,3.0,0.0,9.63,3.0,3.0,3.0,Moderate,M.Pharm,No,8.0,5.0,No,0
+1428,Male,29.0,Srinagar,Student,3.0,0.0,9.63,3.0,0.0,3.0,Moderate,M.Pharm,No,8.0,5.0,No,0
 1431,Male,32.0,Nashik,Student,2.0,0.0,8.95,5.0,0.0,1.0,Moderate,M.Tech,Yes,5.0,1.0,No,0
 1432,Female,31.0,Visakhapatnam,Student,5.0,0.0,9.39,5.0,0.0,1.0,Moderate,Class 12,No,1.0,1.0,Yes,1
 1439,Male,28.0,Vasai-Virar,Student,2.0,0.0,5.7,5.0,0.0,1.0,Unhealthy,BCA,Yes,11.0,4.0,Yes,1
@@ -1962,7 +1962,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 10011,Male,28.0,Agra,Student,5.0,0.0,5.8,5.0,0.0,2.0,Healthy,M.Tech,No,10.0,3.0,Yes,0
 10013,Female,22.0,Surat,Student,3.0,0.0,6.89,5.0,0.0,2.0,Unhealthy,B.Ed,Yes,2.0,3.0,Yes,1
 10019,Female,24.0,Lucknow,Student,2.0,0.0,6.28,3.0,0.0,4.0,Healthy,BA,Yes,0.0,1.0,No,0
-10030,Female,30.0,Ludhiana,Student,3.0,0.0,5.42,2.0,0.0,0.0,Unhealthy,B.Ed,Yes,1.0,2.0,No,0
+10030,Female,30.0,Ludhiana,Student,3.0,0.0,5.42,2.0,0.0,,Unhealthy,B.Ed,Yes,1.0,2.0,No,0
 10033,Female,31.0,Vadodara,Student,2.0,0.0,7.53,5.0,0.0,1.0,Moderate,ME,No,7.0,3.0,No,0
 10039,Female,23.0,Lucknow,Student,3.0,0.0,5.59,3.0,0.0,2.0,Healthy,B.Tech,Yes,5.0,3.0,Yes,1
 10043,Male,27.0,Bhopal,Student,3.0,0.0,6.28,4.0,0.0,1.0,Moderate,B.Ed,No,11.0,1.0,No,0
@@ -2908,7 +2908,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 14764,Male,34.0,Thane,Student,1.0,0.0,6.27,2.0,0.0,3.0,Healthy,MD,No,10.0,1.0,No,0
 14765,Male,33.0,Ludhiana,Student,3.0,0.0,6.86,1.0,0.0,3.0,Moderate,MD,No,10.0,2.0,No,0
 14767,Female,21.0,Vasai-Virar,Student,3.0,0.0,8.63,2.0,0.0,2.0,Healthy,Class 12,No,11.0,4.0,Yes,1
-14768,Female,58.0,Chennai,Student,4.0,0.0,8.58,1.0,0.0,3.0,Healthy,Class 12,No,4.0,4.0,No,0
+14768,Female,43.5,Chennai,Student,4.0,0.0,8.58,1.0,0.0,3.0,Healthy,Class 12,No,4.0,4.0,No,0
 14769,Male,29.0,Visakhapatnam,Student,3.0,0.0,5.74,4.0,0.0,2.0,Healthy,M.Ed,No,2.0,2.0,Yes,1
 14771,Female,27.0,Delhi,Student,3.0,0.0,7.24,3.0,0.0,2.0,Unhealthy,BHM,No,7.0,5.0,No,0
 14776,Male,27.0,Jaipur,Student,5.0,0.0,6.41,1.0,0.0,2.0,Unhealthy,M.Com,Yes,3.0,5.0,Yes,0
@@ -3435,7 +3435,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 17193,Female,26.0,Patna,Student,4.0,0.0,8.59,4.0,0.0,4.0,Moderate,B.Pharm,Yes,10.0,1.0,Yes,1
 17204,Male,27.0,Faridabad,Student,5.0,0.0,5.32,4.0,0.0,1.0,Unhealthy,BSc,Yes,2.0,5.0,Yes,1
 17210,Female,23.0,Kolkata,Student,5.0,0.0,5.1,5.0,0.0,4.0,Moderate,BA,Yes,5.0,3.0,No,1
-17213,Male,49.0,Nagpur,Student,3.0,0.0,6.47,3.0,0.0,2.0,Moderate,Class 12,Yes,2.0,1.0,Yes,0
+17213,Male,43.5,Nagpur,Student,3.0,0.0,6.47,3.0,0.0,2.0,Moderate,Class 12,Yes,2.0,1.0,Yes,0
 17218,Male,27.0,Kolkata,Student,4.0,0.0,5.52,3.0,0.0,3.0,Unhealthy,BSc,Yes,7.0,5.0,Yes,1
 17227,Female,27.0,Vasai-Virar,Student,5.0,0.0,6.02,2.0,0.0,1.0,Unhealthy,B.Com,Yes,7.0,5.0,No,1
 17233,Male,20.0,Mumbai,Student,4.0,0.0,6.16,4.0,0.0,4.0,Unhealthy,Class 12,Yes,9.0,2.0,Yes,1
@@ -3806,7 +3806,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 19038,Male,28.0,Hyderabad,Student,4.0,0.0,8.58,4.0,0.0,1.0,Healthy,MD,Yes,11.0,5.0,No,1
 19044,Female,32.0,Visakhapatnam,Student,3.0,0.0,9.96,1.0,0.0,1.0,Moderate,LLM,Yes,2.0,3.0,No,0
 19048,Female,23.0,Pune,Student,3.0,0.0,6.16,3.0,0.0,4.0,Healthy,MCA,Yes,10.0,1.0,Yes,1
-19051,Female,18.0,Agra,Student,3.0,0.0,6.03,4.0,0.0,0.0,Unhealthy,BA,Yes,12.0,5.0,No,1
+19051,Female,18.0,Agra,Student,3.0,0.0,6.03,4.0,0.0,,Unhealthy,BA,Yes,12.0,5.0,No,1
 19055,Female,26.0,Chennai,Student,3.0,0.0,5.97,5.0,0.0,4.0,Moderate,BE,Yes,10.0,5.0,Yes,0
 19059,Male,28.0,Visakhapatnam,Student,3.0,0.0,7.77,5.0,0.0,1.0,Moderate,MSc,No,9.0,3.0,No,0
 19061,Female,20.0,Srinagar,Student,2.0,0.0,9.93,4.0,0.0,2.0,Healthy,Class 12,Yes,10.0,3.0,Yes,1
@@ -3983,7 +3983,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 19899,Male,20.0,Meerut,Student,4.0,0.0,8.14,4.0,0.0,4.0,Unhealthy,Class 12,Yes,8.0,4.0,No,1
 19902,Female,32.0,Chennai,Student,5.0,0.0,5.56,2.0,0.0,3.0,Moderate,MA,Yes,8.0,4.0,No,1
 19913,Female,28.0,Rajkot,Student,1.0,0.0,7.64,4.0,0.0,2.0,Unhealthy,MHM,Yes,6.0,4.0,Yes,0
-19915,Female,27.0,Ludhiana,Student,4.0,0.0,5.08,5.0,0.0,0.0,Healthy,M.Tech,Yes,8.0,5.0,Yes,1
+19915,Female,27.0,Ludhiana,Student,4.0,0.0,5.08,5.0,0.0,,Healthy,M.Tech,Yes,8.0,5.0,Yes,1
 19921,Male,18.0,Vasai-Virar,Student,3.0,0.0,8.64,1.0,0.0,1.0,Moderate,Class 12,Yes,9.0,2.0,No,1
 19922,Female,21.0,Srinagar,Student,5.0,0.0,5.11,5.0,0.0,2.0,Unhealthy,B.Arch,Yes,10.0,4.0,Yes,1
 19935,Male,28.0,Jaipur,Student,1.0,0.0,9.96,4.0,0.0,1.0,Healthy,B.Ed,No,7.0,1.0,No,0
@@ -4364,7 +4364,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 21867,Male,33.0,Kalyan,Student,4.0,0.0,5.74,4.0,0.0,1.0,Moderate,MSc,No,2.0,1.0,No,0
 21870,Male,20.0,Jaipur,Student,1.0,0.0,7.8,5.0,0.0,3.0,Moderate,Class 12,No,1.0,2.0,Yes,0
 21876,Male,34.0,Hyderabad,Student,5.0,0.0,7.91,3.0,0.0,4.0,Moderate,B.Arch,Yes,1.0,3.0,No,0
-21880,Male,38.0,Chennai,Student,0.0,5.0,2.345,0.0,4.0,2.0,Healthy,Class 12,No,2.0,3.0,No,0
+21880,Male,38.0,Chennai,Student,0.0,0.0,2.345,0.0,0.0,2.0,Healthy,Class 12,No,2.0,3.0,No,0
 21885,Male,33.0,Chennai,Student,4.0,0.0,8.58,3.0,0.0,2.0,Unhealthy,MD,No,6.0,2.0,No,0
 21888,Male,30.0,Vasai-Virar,Student,3.0,0.0,8.59,3.0,0.0,4.0,Moderate,B.Tech,No,7.0,1.0,No,0
 21894,Male,25.0,Rajkot,Student,3.0,0.0,5.74,4.0,0.0,1.0,Moderate,M.Ed,Yes,10.0,5.0,No,1
@@ -4385,7 +4385,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 21991,Female,23.0,Meerut,Student,5.0,0.0,7.47,2.0,0.0,4.0,Moderate,BE,Yes,9.0,4.0,No,1
 21995,Female,26.0,Jaipur,Student,3.0,0.0,5.45,3.0,0.0,3.0,Healthy,BE,Yes,11.0,1.0,No,1
 22002,Female,24.0,Ludhiana,Student,2.0,0.0,7.72,3.0,0.0,1.0,Healthy,B.Pharm,Yes,10.0,3.0,No,0
-22004,Female,51.0,Bhopal,Student,2.0,0.0,8.26,3.0,0.0,1.0,Moderate,MBBS,Yes,5.0,5.0,Yes,0
+22004,Female,43.5,Bhopal,Student,2.0,0.0,8.26,3.0,0.0,1.0,Moderate,MBBS,Yes,5.0,5.0,Yes,0
 22016,Female,24.0,Ludhiana,Student,5.0,0.0,8.58,1.0,0.0,2.0,Unhealthy,B.Tech,Yes,7.0,4.0,No,1
 22020,Female,27.0,Varanasi,Student,5.0,0.0,9.21,1.0,0.0,2.0,Healthy,PhD,No,8.0,5.0,Yes,0
 22029,Male,30.0,Thane,Student,1.0,0.0,8.74,2.0,0.0,1.0,Moderate,M.Pharm,No,11.0,1.0,No,0
@@ -4534,7 +4534,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 22721,Female,22.0,Lucknow,Student,5.0,0.0,7.77,4.0,0.0,1.0,Healthy,B.Com,Yes,9.0,5.0,Yes,1
 22725,Male,19.0,Thane,Student,5.0,0.0,8.09,3.0,0.0,2.0,Moderate,Class 12,Yes,2.0,1.0,Yes,1
 22729,Male,21.0,Nashik,Student,1.0,0.0,7.1,5.0,0.0,2.0,Moderate,MSc,No,11.0,1.0,No,0
-22742,Female,22.0,Srinagar,Student,4.0,0.0,6.92,3.0,0.0,0.0,Moderate,MCA,Yes,3.0,3.0,Yes,1
+22742,Female,22.0,Srinagar,Student,4.0,0.0,6.92,3.0,0.0,,Moderate,MCA,Yes,3.0,3.0,Yes,1
 22771,Male,33.0,Visakhapatnam,Student,3.0,0.0,8.94,5.0,0.0,2.0,Unhealthy,BSc,No,4.0,3.0,Yes,1
 22777,Female,26.0,Jaipur,Student,2.0,0.0,6.38,4.0,0.0,2.0,Healthy,MBBS,Yes,9.0,1.0,Yes,0
 22788,Male,25.0,Ahmedabad,Student,3.0,0.0,8.61,3.0,0.0,1.0,Healthy,M.Tech,Yes,10.0,5.0,Yes,1
@@ -5525,7 +5525,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 27847,Female,24.0,Vasai-Virar,Student,5.0,0.0,9.21,1.0,0.0,3.0,Moderate,LLB,No,0.0,5.0,Yes,1
 27852,Male,22.0,Nagpur,Student,1.0,0.0,6.78,1.0,0.0,1.0,Moderate,B.Com,Yes,12.0,2.0,No,0
 27856,Female,30.0,Thane,Student,5.0,0.0,8.28,2.0,0.0,1.0,Moderate,BCA,Yes,7.0,1.0,No,1
-27865,Female,31.0,Delhi,Student,2.0,0.0,7.27,5.0,0.0,0.0,Healthy,B.Arch,No,3.0,1.0,No,0
+27865,Female,31.0,Delhi,Student,2.0,0.0,7.27,5.0,0.0,,Healthy,B.Arch,No,3.0,1.0,No,0
 27869,Male,23.0,Kanpur,Student,4.0,0.0,9.72,5.0,0.0,1.0,Moderate,MA,Yes,12.0,3.0,Yes,1
 27871,Female,28.0,Jaipur,Student,3.0,0.0,5.8,3.0,0.0,1.0,Healthy,BHM,No,6.0,5.0,No,0
 27872,Female,28.0,Kolkata,Student,5.0,0.0,8.69,2.0,0.0,3.0,Unhealthy,BSc,Yes,10.0,5.0,Yes,1
@@ -5536,7 +5536,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 27897,Male,28.0,Vadodara,Student,5.0,0.0,8.69,4.0,0.0,2.0,Unhealthy,BE,Yes,11.0,4.0,No,1
 27899,Male,27.0,Visakhapatnam,Student,2.0,0.0,9.37,5.0,0.0,3.0,Healthy,BSc,No,11.0,5.0,Yes,0
 27901,Male,33.0,Rajkot,Student,4.0,0.0,6.03,4.0,0.0,2.0,Moderate,BSc,Yes,10.0,1.0,Yes,0
-27918,Female,44.0,Srinagar,Student,1.0,0.0,6.83,3.0,0.0,1.0,Unhealthy,BSc,No,4.0,3.0,No,0
+27918,Female,43.5,Srinagar,Student,1.0,0.0,6.83,3.0,0.0,1.0,Unhealthy,BSc,No,4.0,3.0,No,0
 27921,Female,33.0,Bhopal,Student,3.0,0.0,5.74,4.0,0.0,4.0,Moderate,B.Pharm,No,0.0,1.0,No,0
 27927,Male,24.0,Surat,Student,3.0,0.0,8.7,5.0,0.0,2.0,Moderate,BCA,Yes,10.0,5.0,No,1
 27933,Male,26.0,Kanpur,Student,3.0,0.0,6.16,5.0,0.0,1.0,Unhealthy,MCA,Yes,12.0,5.0,Yes,1
@@ -5785,7 +5785,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 29022,Female,21.0,Chennai,Student,3.0,0.0,8.7,4.0,0.0,1.0,Moderate,MBA,No,12.0,1.0,Yes,0
 29024,Male,25.0,Patna,Student,4.0,0.0,8.74,1.0,0.0,3.0,Unhealthy,B.Ed,Yes,12.0,4.0,Yes,1
 29027,Female,25.0,Kolkata,Student,2.0,0.0,7.53,4.0,0.0,2.0,Unhealthy,BHM,No,12.0,4.0,No,0
-29050,Male,23.0,Mumbai,Student,5.0,0.0,8.52,4.0,0.0,0.0,Moderate,BE,Yes,12.0,4.0,Yes,1
+29050,Male,23.0,Mumbai,Student,5.0,0.0,8.52,4.0,0.0,,Moderate,BE,Yes,12.0,4.0,Yes,1
 29051,Female,33.0,Bhopal,Student,4.0,0.0,8.74,3.0,0.0,2.0,Moderate,BE,Yes,8.0,3.0,Yes,1
 29053,Female,31.0,Ludhiana,Student,3.0,0.0,7.8,4.0,0.0,3.0,Healthy,MBBS,No,5.0,2.0,Yes,0
 29054,Female,24.0,Vasai-Virar,Student,4.0,0.0,8.4,3.0,0.0,2.0,Unhealthy,BCA,Yes,3.0,1.0,Yes,1
@@ -6739,7 +6739,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 33823,Male,24.0,Vadodara,Student,2.0,0.0,8.7,3.0,0.0,1.0,Unhealthy,B.Arch,No,6.0,2.0,No,0
 33830,Female,28.0,Thane,Student,2.0,0.0,7.94,5.0,0.0,1.0,Healthy,MSc,Yes,2.0,1.0,No,0
 33834,Male,32.0,Nagpur,Student,4.0,0.0,9.43,5.0,0.0,3.0,Unhealthy,BA,Yes,0.0,1.0,No,1
-33836,Male,20.0,Vasai-Virar,Student,3.0,0.0,6.37,2.0,0.0,0.0,Unhealthy,BSc,No,10.0,1.0,No,0
+33836,Male,20.0,Vasai-Virar,Student,3.0,0.0,6.37,2.0,0.0,,Unhealthy,BSc,No,10.0,1.0,No,0
 33838,Male,27.0,Ludhiana,Student,4.0,0.0,6.21,4.0,0.0,1.0,Unhealthy,BE,Yes,6.0,5.0,No,1
 33840,Male,34.0,Thane,Student,5.0,0.0,9.24,2.0,0.0,2.0,Moderate,B.Tech,Yes,10.0,5.0,No,1
 33841,Female,24.0,Chennai,Student,2.0,0.0,8.04,4.0,0.0,1.0,Healthy,MA,No,1.0,1.0,Yes,0
@@ -7695,7 +7695,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 38685,Male,29.0,Bangalore,Student,4.0,0.0,8.14,3.0,0.0,2.0,Moderate,MD,Yes,0.0,2.0,No,1
 38688,Female,19.0,Ahmedabad,Student,5.0,0.0,5.79,3.0,0.0,1.0,Unhealthy,Class 12,Yes,10.0,5.0,No,1
 38694,Male,27.0,Bangalore,Student,5.0,0.0,5.58,3.0,0.0,1.0,Moderate,LLM,Yes,6.0,2.0,Yes,1
-38701,Male,31.0,Kalyan,Student,3.0,0.0,8.21,4.0,0.0,0.0,Moderate,BA,No,2.0,3.0,No,0
+38701,Male,31.0,Kalyan,Student,3.0,0.0,8.21,4.0,0.0,,Moderate,BA,No,2.0,3.0,No,0
 38703,Female,29.0,Kalyan,Student,5.0,0.0,8.04,3.0,0.0,1.0,Unhealthy,B.Ed,Yes,8.0,4.0,No,1
 38708,Male,18.0,Chennai,Student,5.0,0.0,9.44,1.0,0.0,3.0,Healthy,Class 12,Yes,1.0,4.0,No,1
 38709,Female,28.0,Hyderabad,Student,3.0,0.0,9.44,4.0,0.0,3.0,Unhealthy,MBA,Yes,5.0,3.0,Yes,1
@@ -7874,7 +7874,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 39538,Male,24.0,Ludhiana,Student,5.0,0.0,9.31,2.0,0.0,1.0,Moderate,B.Pharm,Yes,4.0,5.0,Yes,1
 39549,Female,20.0,Hyderabad,Student,5.0,0.0,8.97,1.0,0.0,4.0,Unhealthy,Class 12,No,6.0,4.0,Yes,1
 39552,Female,25.0,Patna,Student,5.0,0.0,8.96,1.0,0.0,4.0,Moderate,B.Arch,Yes,12.0,3.0,No,1
-39566,Female,28.0,Visakhapatnam,Student,4.0,0.0,6.38,5.0,0.0,0.0,Moderate,M.Ed,No,8.0,3.0,No,0
+39566,Female,28.0,Visakhapatnam,Student,4.0,0.0,6.38,5.0,0.0,,Moderate,M.Ed,No,8.0,3.0,No,0
 39579,Male,26.0,Patna,Student,3.0,0.0,8.04,2.0,0.0,1.0,Unhealthy,BCA,No,12.0,1.0,No,0
 39581,Male,21.0,Rajkot,Student,2.0,0.0,5.41,1.0,0.0,3.0,Healthy,B.Com,No,11.0,1.0,No,0
 39593,Male,27.0,Rajkot,Student,3.0,0.0,5.64,4.0,0.0,4.0,Moderate,BSc,No,1.0,1.0,No,0
@@ -9005,7 +9005,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 45363,Male,22.0,Agra,Student,3.0,0.0,7.88,3.0,0.0,4.0,Unhealthy,BBA,No,3.0,5.0,Yes,0
 45373,Male,27.0,Kalyan,Student,3.0,0.0,7.02,2.0,0.0,4.0,Unhealthy,BSc,Yes,10.0,4.0,Yes,1
 45383,Female,19.0,Ludhiana,Student,3.0,0.0,5.37,4.0,0.0,4.0,Healthy,Class 12,Yes,10.0,5.0,Yes,1
-45393,Male,46.0,Nashik,Student,1.0,0.0,6.1,3.0,0.0,3.0,Unhealthy,PhD,No,4.0,2.0,No,0
+45393,Male,43.5,Nashik,Student,1.0,0.0,6.1,3.0,0.0,3.0,Unhealthy,PhD,No,4.0,2.0,No,0
 45401,Female,29.0,Surat,Student,3.0,0.0,8.04,4.0,0.0,1.0,Moderate,LLB,Yes,12.0,4.0,No,1
 45406,Male,33.0,Rajkot,Student,3.0,0.0,6.33,5.0,0.0,1.0,Healthy,M.Pharm,No,8.0,1.0,Yes,0
 45416,Male,34.0,Srinagar,Student,2.0,0.0,8.53,5.0,0.0,4.0,Healthy,LLM,No,1.0,3.0,Yes,0
@@ -9237,7 +9237,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 46581,Female,26.0,Srinagar,Student,3.0,0.0,6.59,1.0,0.0,1.0,Moderate,BHM,Yes,10.0,3.0,No,1
 46585,Female,20.0,Bangalore,Student,1.0,0.0,7.0,5.0,0.0,3.0,Healthy,Class 12,Yes,6.0,2.0,No,0
 46591,Female,30.0,Kolkata,Student,5.0,0.0,7.53,1.0,0.0,1.0,Healthy,B.Arch,Yes,0.0,4.0,Yes,1
-46602,Male,59.0,Nashik,Student,1.0,0.0,8.14,1.0,0.0,2.0,Unhealthy,PhD,Yes,10.0,4.0,Yes,0
+46602,Male,43.5,Nashik,Student,1.0,0.0,8.14,1.0,0.0,2.0,Unhealthy,PhD,Yes,10.0,4.0,Yes,0
 46607,Male,28.0,Pune,Student,3.0,0.0,8.5,4.0,0.0,2.0,Moderate,B.Com,Yes,10.0,5.0,Yes,1
 46608,Male,34.0,Mumbai,Student,1.0,0.0,6.0,4.0,0.0,2.0,Moderate,B.Tech,Yes,0.0,5.0,No,0
 46609,Male,26.0,Vadodara,Student,1.0,0.0,8.93,3.0,0.0,4.0,Unhealthy,B.Ed,Yes,6.0,2.0,No,0
@@ -12932,7 +12932,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 65444,Male,33.0,Kanpur,Student,4.0,0.0,7.25,4.0,0.0,4.0,Moderate,BHM,No,11.0,4.0,No,0
 65447,Female,23.0,Nagpur,Student,5.0,0.0,7.1,3.0,0.0,1.0,Healthy,B.Com,Yes,11.0,2.0,No,1
 65453,Female,19.0,Vadodara,Student,3.0,0.0,5.87,5.0,0.0,2.0,Unhealthy,Class 12,No,1.0,2.0,Yes,0
-65456,Male,28.0,Nagpur,Student,2.0,0.0,7.85,4.0,0.0,0.0,Unhealthy,BA,Yes,10.0,4.0,No,1
+65456,Male,28.0,Nagpur,Student,2.0,0.0,7.85,4.0,0.0,,Unhealthy,BA,Yes,10.0,4.0,No,1
 65462,Male,29.0,Lucknow,Student,3.0,0.0,7.88,2.0,0.0,2.0,Unhealthy,M.Tech,Yes,3.0,5.0,Yes,1
 65467,Female,24.0,Lucknow,Student,1.0,0.0,5.57,3.0,0.0,3.0,Healthy,MBBS,Yes,9.0,5.0,No,0
 65472,Male,25.0,Srinagar,Student,5.0,0.0,5.77,1.0,0.0,1.0,Unhealthy,B.Arch,No,5.0,5.0,Yes,1
@@ -13498,7 +13498,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 68418,Male,23.0,Bhopal,Student,1.0,0.0,6.37,3.0,0.0,3.0,Unhealthy,MSc,Yes,8.0,4.0,No,0
 68426,Female,28.0,Kalyan,Student,2.0,0.0,8.78,3.0,0.0,1.0,Unhealthy,BHM,No,5.0,3.0,No,1
 68440,Female,28.0,Patna,Student,4.0,0.0,8.59,1.0,0.0,2.0,Moderate,B.Ed,No,12.0,3.0,Yes,1
-68441,Male,54.0,Agra,Student,5.0,0.0,9.6,2.0,0.0,4.0,Unhealthy,B.Ed,Yes,9.0,3.0,Yes,0
+68441,Male,43.5,Agra,Student,5.0,0.0,9.6,2.0,0.0,4.0,Unhealthy,B.Ed,Yes,9.0,3.0,Yes,0
 68446,Male,34.0,Varanasi,Student,2.0,0.0,9.71,1.0,0.0,3.0,Unhealthy,MA,Yes,6.0,1.0,No,0
 68451,Female,31.0,Kalyan,Student,4.0,0.0,9.86,1.0,0.0,1.0,Moderate,LLB,No,10.0,2.0,No,0
 68456,Male,22.0,Srinagar,Student,2.0,0.0,5.27,4.0,0.0,4.0,Unhealthy,B.Com,Yes,4.0,2.0,No,0
@@ -13617,7 +13617,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 69021,Female,20.0,Meerut,Student,5.0,0.0,6.95,1.0,0.0,2.0,Unhealthy,BE,No,0.0,5.0,Yes,1
 69028,Male,26.0,Hyderabad,Student,1.0,0.0,8.04,3.0,0.0,2.0,Moderate,B.Tech,No,2.0,4.0,Yes,0
 69029,Male,33.0,Ludhiana,Student,4.0,0.0,7.5,1.0,0.0,1.0,Unhealthy,MD,No,4.0,3.0,No,0
-69032,Female,48.0,Ghaziabad,Student,3.0,0.0,7.48,5.0,0.0,4.0,Healthy,LLB,No,2.0,4.0,No,0
+69032,Female,43.5,Ghaziabad,Student,3.0,0.0,7.48,5.0,0.0,4.0,Healthy,LLB,No,2.0,4.0,No,0
 69036,Male,20.0,Kalyan,Student,3.0,0.0,8.85,4.0,0.0,1.0,Unhealthy,Class 12,No,2.0,3.0,No,1
 69040,Female,21.0,Surat,Student,1.0,0.0,8.69,4.0,0.0,3.0,Moderate,MCA,No,5.0,3.0,No,0
 69043,Female,31.0,Kalyan,Student,1.0,0.0,7.25,2.0,0.0,1.0,Unhealthy,M.Ed,Yes,4.0,1.0,No,0
@@ -13908,7 +13908,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 70435,Female,34.0,Pune,Student,1.0,0.0,6.75,4.0,0.0,3.0,Unhealthy,MA,No,10.0,2.0,No,0
 70447,Male,27.0,Lucknow,Student,5.0,0.0,9.21,3.0,0.0,2.0,Unhealthy,MA,Yes,12.0,1.0,Yes,1
 70450,Male,33.0,Varanasi,Student,1.0,0.0,8.04,4.0,0.0,3.0,Moderate,M.Tech,Yes,10.0,3.0,Yes,0
-70453,Female,20.0,Ahmedabad,Student,0.0,0.0,2.345,0.0,2.0,1.0,Moderate,Class 12,Yes,12.0,3.0,Yes,1
+70453,Female,20.0,Ahmedabad,Student,0.0,0.0,2.345,0.0,0.0,1.0,Moderate,Class 12,Yes,12.0,3.0,Yes,1
 70454,Male,34.0,Agra,Student,2.0,0.0,5.32,1.0,0.0,3.0,Moderate,MCA,Yes,0.0,5.0,Yes,0
 70455,Female,23.0,Kolkata,Student,3.0,0.0,6.37,5.0,0.0,1.0,Unhealthy,MSc,Yes,9.0,4.0,Yes,1
 70456,Male,21.0,Rajkot,Student,4.0,0.0,6.47,1.0,0.0,2.0,Unhealthy,BCA,Yes,11.0,3.0,Yes,1
@@ -14381,7 +14381,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 72693,Female,28.0,Vadodara,Student,5.0,0.0,8.39,5.0,0.0,4.0,Moderate,B.Pharm,Yes,8.0,3.0,No,1
 72698,Male,30.0,Hyderabad,Student,4.0,0.0,9.97,2.0,0.0,1.0,Unhealthy,M.Ed,Yes,11.0,4.0,Yes,1
 72699,Female,20.0,Patna,Student,1.0,0.0,8.58,5.0,0.0,3.0,Moderate,Class 12,No,7.0,3.0,No,0
-72700,Female,33.0,Ahmedabad,Student,4.0,0.0,7.87,4.0,0.0,0.0,Moderate,PhD,No,10.0,2.0,Yes,0
+72700,Female,33.0,Ahmedabad,Student,4.0,0.0,7.87,4.0,0.0,,Moderate,PhD,No,10.0,2.0,Yes,0
 72715,Female,19.0,Indore,Student,3.0,0.0,7.25,4.0,0.0,1.0,Moderate,Class 12,No,2.0,1.0,No,0
 72717,Female,21.0,Kalyan,Student,5.0,0.0,8.58,2.0,0.0,1.0,Healthy,BSc,Yes,11.0,5.0,No,1
 72727,Female,20.0,Kanpur,Student,4.0,0.0,7.38,4.0,0.0,3.0,Healthy,Class 12,Yes,6.0,5.0,Yes,1
@@ -14818,7 +14818,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 74868,Female,29.0,Ludhiana,Student,2.0,0.0,9.37,2.0,0.0,2.0,Unhealthy,MA,Yes,12.0,1.0,Yes,0
 74871,Female,34.0,Bangalore,Student,3.0,0.0,6.27,4.0,0.0,4.0,Moderate,MD,No,0.0,3.0,Yes,0
 74872,Male,33.0,Rajkot,Student,4.0,0.0,5.64,4.0,0.0,3.0,Unhealthy,B.Tech,No,11.0,4.0,No,0
-74887,Female,56.0,Ludhiana,Student,3.0,0.0,7.94,5.0,0.0,2.0,Unhealthy,BSc,No,1.0,5.0,Yes,0
+74887,Female,43.5,Ludhiana,Student,3.0,0.0,7.94,5.0,0.0,2.0,Unhealthy,BSc,No,1.0,5.0,Yes,0
 74890,Male,31.0,Mumbai,Student,5.0,0.0,7.38,2.0,0.0,3.0,Moderate,B.Ed,Yes,2.0,2.0,No,0
 74893,Male,27.0,Patna,Student,5.0,0.0,7.1,3.0,0.0,1.0,Moderate,B.Ed,Yes,9.0,5.0,Yes,1
 74895,Female,28.0,Mumbai,Student,3.0,0.0,8.04,2.0,0.0,2.0,Unhealthy,MA,Yes,6.0,3.0,Yes,0
@@ -14854,7 +14854,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 74992,Female,21.0,Visakhapatnam,Student,4.0,0.0,8.95,2.0,0.0,4.0,Unhealthy,MCA,Yes,12.0,5.0,No,1
 75002,Male,24.0,Kalyan,Student,2.0,0.0,7.15,4.0,0.0,4.0,Moderate,MBBS,Yes,4.0,4.0,No,0
 75005,Male,18.0,Lucknow,Student,3.0,0.0,8.95,4.0,0.0,1.0,Moderate,Class 12,No,6.0,4.0,No,0
-75007,Male,21.0,Lucknow,Student,0.0,2.0,2.345,0.0,1.0,3.0,Moderate,Class 12,Yes,3.0,3.0,Yes,0
+75007,Male,21.0,Lucknow,Student,0.0,0.0,2.345,0.0,0.0,3.0,Moderate,Class 12,Yes,3.0,3.0,Yes,0
 75014,Male,29.0,Vasai-Virar,Student,3.0,0.0,5.7,4.0,0.0,3.0,Unhealthy,MSc,Yes,4.0,4.0,Yes,1
 75023,Male,28.0,Patna,Student,4.0,0.0,8.14,3.0,0.0,1.0,Moderate,B.Ed,Yes,10.0,4.0,No,0
 75025,Male,32.0,Varanasi,Student,5.0,0.0,9.84,1.0,0.0,1.0,Unhealthy,B.Ed,Yes,8.0,4.0,No,1
@@ -14987,7 +14987,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 75580,Female,32.0,Delhi,Student,3.0,0.0,6.38,3.0,0.0,3.0,Healthy,BA,Yes,5.0,1.0,Yes,0
 75581,Female,19.0,Lucknow,Student,5.0,0.0,9.24,2.0,0.0,2.0,Moderate,Class 12,Yes,5.0,3.0,Yes,1
 75586,Female,28.0,Varanasi,Student,4.0,0.0,5.59,2.0,0.0,4.0,Moderate,BCA,Yes,5.0,2.0,Yes,0
-75587,Male,26.0,Srinagar,Student,2.0,0.0,7.11,4.0,0.0,0.0,Unhealthy,PhD,Yes,9.0,2.0,No,0
+75587,Male,26.0,Srinagar,Student,2.0,0.0,7.11,4.0,0.0,,Unhealthy,PhD,Yes,9.0,2.0,No,0
 75588,Male,29.0,Ludhiana,Student,3.0,0.0,6.27,4.0,0.0,3.0,Moderate,M.Pharm,Yes,12.0,5.0,Yes,1
 75592,Male,18.0,Pune,Student,5.0,0.0,5.85,2.0,0.0,3.0,Moderate,Class 12,No,6.0,2.0,No,1
 75593,Male,23.0,Patna,Student,3.0,0.0,7.09,4.0,0.0,4.0,Healthy,B.Ed,No,9.0,3.0,No,0
@@ -15102,7 +15102,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 76109,Male,21.0,Thane,Student,3.0,0.0,8.13,1.0,0.0,3.0,Moderate,M.Com,Yes,12.0,5.0,No,1
 76110,Male,25.0,Kalyan,Student,4.0,0.0,7.88,2.0,0.0,4.0,Unhealthy,M.Tech,Yes,8.0,4.0,Yes,1
 76118,Female,30.0,Kalyan,Student,3.0,0.0,9.93,5.0,0.0,2.0,Moderate,BHM,Yes,10.0,1.0,Yes,0
-76120,Male,25.0,Kanpur,Student,3.0,0.0,9.84,1.0,0.0,0.0,Unhealthy,BE,Yes,4.0,1.0,Yes,1
+76120,Male,25.0,Kanpur,Student,3.0,0.0,9.84,1.0,0.0,,Unhealthy,BE,Yes,4.0,1.0,Yes,1
 76130,Male,26.0,Patna,Student,4.0,0.0,6.1,2.0,0.0,1.0,Moderate,B.Arch,No,3.0,1.0,Yes,1
 76137,Female,29.0,Ahmedabad,Student,2.0,0.0,9.44,1.0,0.0,3.0,Moderate,MSc,No,11.0,1.0,No,0
 76147,Male,33.0,Bangalore,Student,2.0,0.0,8.63,1.0,0.0,3.0,Unhealthy,LLB,No,12.0,3.0,Yes,1
@@ -15957,7 +15957,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 80665,Female,28.0,Hyderabad,Student,5.0,0.0,5.37,2.0,0.0,2.0,Moderate,BCA,Yes,10.0,1.0,Yes,1
 80668,Male,21.0,Hyderabad,Student,4.0,0.0,9.21,1.0,0.0,2.0,Moderate,MCA,Yes,2.0,5.0,Yes,1
 80670,Male,31.0,Nagpur,Student,4.0,0.0,8.93,4.0,0.0,3.0,Unhealthy,MD,No,6.0,3.0,Yes,0
-80672,Male,23.0,Nagpur,Student,2.0,0.0,9.6,1.0,0.0,0.0,Unhealthy,B.Arch,Yes,1.0,1.0,Yes,0
+80672,Male,23.0,Nagpur,Student,2.0,0.0,9.6,1.0,0.0,,Unhealthy,B.Arch,Yes,1.0,1.0,Yes,0
 80682,Female,29.0,Meerut,Student,3.0,0.0,6.27,4.0,0.0,4.0,Healthy,B.Com,Yes,10.0,2.0,No,1
 80689,Female,24.0,Srinagar,Student,1.0,0.0,6.04,3.0,0.0,2.0,Moderate,BE,Yes,1.0,2.0,Yes,0
 80715,Female,25.0,Srinagar,Student,3.0,0.0,9.34,4.0,0.0,1.0,Healthy,M.Ed,Yes,1.0,3.0,No,0
@@ -18223,7 +18223,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 92283,Female,26.0,Jaipur,Student,4.0,0.0,5.45,3.0,0.0,4.0,Healthy,BE,Yes,6.0,2.0,No,1
 92285,Female,24.0,Pune,Student,4.0,0.0,5.82,4.0,0.0,2.0,Healthy,B.Arch,Yes,11.0,2.0,No,1
 92287,Male,20.0,Rajkot,Student,3.0,0.0,8.03,4.0,0.0,1.0,Unhealthy,Class 12,Yes,12.0,4.0,Yes,1
-92288,Female,31.0,Faridabad,Student,2.0,0.0,9.24,1.0,0.0,0.0,Moderate,MBA,Yes,12.0,5.0,No,1
+92288,Female,31.0,Faridabad,Student,2.0,0.0,9.24,1.0,0.0,,Moderate,MBA,Yes,12.0,5.0,No,1
 92291,Female,19.0,Ludhiana,Student,4.0,0.0,6.99,3.0,0.0,1.0,Unhealthy,Class 12,Yes,12.0,4.0,No,1
 92294,Male,33.0,Srinagar,Student,1.0,0.0,6.78,3.0,0.0,2.0,Unhealthy,B.Ed,No,0.0,1.0,Yes,0
 92297,Male,24.0,Bangalore,Student,3.0,0.0,9.56,1.0,0.0,1.0,Healthy,Class 12,Yes,0.0,1.0,No,0
@@ -18765,7 +18765,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 94955,Female,29.0,Surat,Student,5.0,0.0,9.7,1.0,0.0,3.0,Unhealthy,BCA,Yes,8.0,3.0,No,1
 94964,Male,33.0,Srinagar,Student,2.0,0.0,7.25,5.0,0.0,3.0,Unhealthy,M.Pharm,Yes,5.0,1.0,No,1
 94973,Male,27.0,Ghaziabad,Student,5.0,0.0,8.58,2.0,0.0,3.0,Unhealthy,M.Com,Yes,0.0,1.0,No,1
-94978,Female,46.0,Lucknow,Student,3.0,0.0,6.83,1.0,0.0,2.0,Healthy,MCA,No,8.0,5.0,No,1
+94978,Female,43.5,Lucknow,Student,3.0,0.0,6.83,1.0,0.0,2.0,Healthy,MCA,No,8.0,5.0,No,1
 94980,Female,31.0,Srinagar,Student,3.0,0.0,9.95,5.0,0.0,1.0,Moderate,LLM,Yes,4.0,2.0,No,0
 94985,Male,33.0,Vadodara,Student,3.0,0.0,9.56,3.0,0.0,3.0,Unhealthy,BE,Yes,1.0,4.0,Yes,1
 94986,Male,18.0,Kolkata,Student,3.0,0.0,8.81,1.0,0.0,3.0,Moderate,Class 12,Yes,12.0,5.0,Yes,1
@@ -20314,7 +20314,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 102859,Male,26.0,Agra,Student,3.0,0.0,5.65,1.0,0.0,1.0,Unhealthy,MBA,No,3.0,4.0,No,1
 102861,Female,28.0,Meerut,Student,1.0,0.0,9.21,2.0,0.0,1.0,Unhealthy,BSc,Yes,11.0,1.0,No,1
 102862,Female,32.0,Indore,Student,1.0,0.0,5.74,2.0,0.0,3.0,Moderate,B.Pharm,No,5.0,1.0,Yes,0
-102871,Male,32.0,Hyderabad,Student,4.0,0.0,9.39,2.0,0.0,0.0,Healthy,M.Tech,No,4.0,3.0,Yes,1
+102871,Male,32.0,Hyderabad,Student,4.0,0.0,9.39,2.0,0.0,,Healthy,M.Tech,No,4.0,3.0,Yes,1
 102880,Male,31.0,Surat,Student,3.0,0.0,6.42,1.0,0.0,4.0,Healthy,LLM,Yes,4.0,2.0,Yes,1
 102891,Male,29.0,Faridabad,Student,5.0,0.0,8.81,5.0,0.0,3.0,Unhealthy,PhD,Yes,9.0,2.0,No,1
 102899,Male,26.0,Delhi,Student,3.0,0.0,6.39,3.0,0.0,2.0,Unhealthy,MBBS,No,12.0,2.0,Yes,1
@@ -20912,7 +20912,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 105767,Female,30.0,Thane,Student,3.0,0.0,9.66,1.0,0.0,4.0,Unhealthy,MSc,Yes,3.0,5.0,Yes,0
 105768,Female,34.0,Srinagar,Student,2.0,0.0,5.84,4.0,0.0,1.0,Healthy,MSc,Yes,8.0,2.0,No,0
 105770,Male,34.0,Surat,Student,1.0,0.0,7.53,5.0,0.0,2.0,Healthy,BCA,No,8.0,4.0,No,0
-105773,Male,18.0,Ahmedabad,Student,0.0,0.0,2.345,0.0,1.0,1.0,Moderate,Class 12,Yes,9.0,5.0,No,1
+105773,Male,18.0,Ahmedabad,Student,0.0,0.0,2.345,0.0,0.0,1.0,Moderate,Class 12,Yes,9.0,5.0,No,1
 105774,Female,20.0,Chennai,Student,4.0,0.0,8.59,4.0,0.0,3.0,Moderate,Class 12,Yes,10.0,5.0,No,1
 105781,Male,19.0,Kolkata,Student,3.0,0.0,9.71,3.0,0.0,1.0,Unhealthy,Class 12,Yes,11.0,5.0,No,1
 105785,Female,23.0,Vasai-Virar,Student,5.0,0.0,9.25,5.0,0.0,2.0,Moderate,BA,No,10.0,2.0,Yes,1
@@ -22902,7 +22902,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 115466,Male,28.0,Pune,Student,5.0,0.0,9.33,2.0,0.0,3.0,Unhealthy,M.Ed,Yes,12.0,5.0,No,1
 115476,Female,31.0,Faridabad,Student,3.0,0.0,7.6,5.0,0.0,2.0,Moderate,M.Com,Yes,2.0,4.0,No,0
 115480,Female,31.0,Delhi,Student,3.0,0.0,7.17,4.0,0.0,3.0,Unhealthy,LLB,No,4.0,4.0,Yes,1
-115481,Male,34.0,Meerut,Student,3.0,0.0,5.66,4.0,0.0,0.0,Moderate,MSc,No,12.0,1.0,No,0
+115481,Male,34.0,Meerut,Student,3.0,0.0,5.66,4.0,0.0,,Moderate,MSc,No,12.0,1.0,No,0
 115486,Female,26.0,Kolkata,Student,5.0,0.0,5.59,2.0,0.0,1.0,Moderate,BBA,Yes,12.0,5.0,Yes,1
 115493,Male,25.0,Rajkot,Student,4.0,0.0,6.17,3.0,0.0,1.0,Moderate,MA,Yes,12.0,1.0,Yes,1
 115494,Female,24.0,Kanpur,Student,5.0,0.0,6.99,3.0,0.0,1.0,Moderate,B.Arch,Yes,12.0,5.0,Yes,1
@@ -23140,7 +23140,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 116682,Female,25.0,Agra,Student,5.0,0.0,5.55,3.0,0.0,3.0,Unhealthy,BCA,Yes,8.0,2.0,No,1
 116687,Male,20.0,Bangalore,Student,5.0,0.0,7.0,2.0,0.0,2.0,Moderate,Class 12,No,12.0,5.0,No,1
 116695,Male,18.0,Lucknow,Student,4.0,0.0,7.1,2.0,0.0,2.0,Moderate,Class 12,No,4.0,5.0,Yes,1
-116703,Male,25.0,Bangalore,Student,4.0,0.0,9.44,5.0,2.0,1.0,Unhealthy,PhD,Yes,4.0,1.0,No,1
+116703,Male,25.0,Bangalore,Student,4.0,0.0,9.44,5.0,0.0,1.0,Unhealthy,PhD,Yes,4.0,1.0,No,1
 116719,Male,26.0,Hyderabad,Student,3.0,0.0,9.56,4.0,0.0,4.0,Healthy,B.Arch,No,7.0,1.0,No,0
 116721,Male,29.0,Mumbai,Student,3.0,0.0,7.25,5.0,0.0,2.0,Moderate,M.Com,Yes,3.0,2.0,No,1
 116723,Female,20.0,Ahmedabad,Student,5.0,0.0,7.68,5.0,0.0,3.0,Healthy,Class 12,Yes,12.0,5.0,Yes,1
@@ -25201,9 +25201,9 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 126954,Male,33.0,Meerut,Student,1.0,0.0,6.84,5.0,0.0,4.0,Healthy,M.Tech,No,7.0,2.0,Yes,0
 126958,Male,31.0,Kanpur,Student,2.0,0.0,5.64,5.0,0.0,3.0,Moderate,M.Ed,No,11.0,4.0,Yes,0
 126961,Male,19.0,Ahmedabad,Student,4.0,0.0,6.75,1.0,0.0,3.0,Unhealthy,Class 12,Yes,8.0,3.0,Yes,1
-126970,Female,48.0,Rajkot,Student,3.0,0.0,5.32,4.0,0.0,3.0,Unhealthy,Class 12,No,1.0,4.0,Yes,1
+126970,Female,43.5,Rajkot,Student,3.0,0.0,5.32,4.0,0.0,3.0,Unhealthy,Class 12,No,1.0,4.0,Yes,1
 126971,Male,24.0,Kolkata,Student,4.0,0.0,9.78,2.0,0.0,2.0,Unhealthy,B.Com,Yes,8.0,1.0,Yes,1
-126972,Female,30.0,Delhi,Student,4.0,0.0,9.96,1.0,0.0,0.0,Unhealthy,B.Com,Yes,1.0,2.0,Yes,1
+126972,Female,30.0,Delhi,Student,4.0,0.0,9.96,1.0,0.0,,Unhealthy,B.Com,Yes,1.0,2.0,Yes,1
 126983,Male,26.0,Kolkata,Student,1.0,0.0,8.28,3.0,0.0,4.0,Unhealthy,BCA,Yes,9.0,4.0,Yes,1
 126992,Female,31.0,Nagpur,Student,5.0,0.0,7.7,1.0,0.0,1.0,Unhealthy,LLM,Yes,10.0,4.0,Yes,1
 127000,Male,26.0,Hyderabad,Student,2.0,0.0,9.42,5.0,0.0,3.0,Healthy,BBA,No,0.0,1.0,Yes,0
@@ -25745,7 +25745,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 129743,Male,27.0,Delhi,Student,4.0,0.0,6.27,4.0,0.0,1.0,Unhealthy,B.Pharm,No,0.0,5.0,Yes,0
 129746,Male,26.0,Srinagar,Student,5.0,0.0,7.22,2.0,0.0,1.0,Moderate,BE,Yes,1.0,4.0,Yes,1
 129749,Male,31.0,Kanpur,Student,4.0,0.0,7.21,3.0,0.0,2.0,Unhealthy,M.Ed,No,11.0,2.0,Yes,0
-129756,Male,18.0,Rajkot,Student,0.0,5.0,2.345,0.0,4.0,3.0,Moderate,Class 12,Yes,9.0,4.0,No,1
+129756,Male,18.0,Rajkot,Student,0.0,0.0,2.345,0.0,0.0,3.0,Moderate,Class 12,Yes,9.0,4.0,No,1
 129762,Female,31.0,Lucknow,Student,2.0,0.0,5.85,3.0,0.0,1.0,Moderate,B.Ed,No,4.0,3.0,Yes,0
 129768,Male,30.0,Thane,Student,3.0,0.0,6.78,5.0,0.0,3.0,Moderate,B.Tech,Yes,10.0,2.0,No,0
 129769,Male,24.0,Kalyan,Student,3.0,0.0,7.52,1.0,0.0,2.0,Unhealthy,B.Com,Yes,10.0,4.0,No,1
@@ -26718,7 +26718,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 134804,Male,28.0,Jaipur,Student,1.0,0.0,9.93,4.0,0.0,3.0,Moderate,MA,No,4.0,2.0,Yes,0
 134810,Male,24.0,Ghaziabad,Student,1.0,0.0,9.88,4.0,0.0,4.0,Moderate,BE,No,7.0,1.0,Yes,0
 134811,Male,30.0,Mumbai,Student,3.0,0.0,7.1,2.0,0.0,1.0,Moderate,LLB,Yes,2.0,2.0,No,0
-134830,Female,24.0,Meerut,Student,0.0,0.0,2.345,0.0,2.0,4.0,Unhealthy,Class 12,No,0.0,5.0,No,0
+134830,Female,24.0,Meerut,Student,0.0,0.0,2.345,0.0,0.0,4.0,Unhealthy,Class 12,No,0.0,5.0,No,0
 134831,Female,27.0,Rajkot,Student,3.0,0.0,8.23,4.0,0.0,1.0,Moderate,M.Tech,No,12.0,2.0,Yes,0
 134836,Male,32.0,Srinagar,Student,1.0,0.0,7.27,4.0,0.0,2.0,Healthy,MBA,No,12.0,1.0,No,0
 134841,Male,23.0,Kolkata,Student,4.0,0.0,5.74,5.0,0.0,3.0,Healthy,M.Tech,Yes,8.0,5.0,Yes,1
@@ -27333,7 +27333,7 @@ id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfa
 137821,Female,26.0,Agra,Student,5.0,0.0,9.84,1.0,0.0,1.0,Unhealthy,BA,Yes,10.0,4.0,No,1
 137825,Male,32.0,Lucknow,Student,1.0,0.0,9.34,5.0,0.0,3.0,Healthy,M.Pharm,No,7.0,5.0,Yes,0
 137826,Female,18.0,Ludhiana,Student,5.0,0.0,7.25,5.0,0.0,4.0,Unhealthy,Class 12,Yes,11.0,1.0,No,1
-137827,Female,48.0,Surat,Student,1.0,0.0,8.92,4.0,0.0,3.0,Moderate,MD,Yes,12.0,4.0,Yes,0
+137827,Female,43.5,Surat,Student,1.0,0.0,8.92,4.0,0.0,3.0,Moderate,MD,Yes,12.0,4.0,Yes,0
 137828,Female,28.0,Ludhiana,Student,5.0,0.0,5.42,4.0,0.0,1.0,Moderate,B.Com,Yes,10.0,5.0,Yes,1
 137829,Male,21.0,Srinagar,Student,1.0,0.0,9.71,1.0,0.0,3.0,Unhealthy,B.Arch,No,3.0,1.0,No,0
 137831,Male,23.0,Vasai-Virar,Student,5.0,0.0,6.74,1.0,0.0,3.0,Healthy,M.Tech,Yes,10.0,4.0,Yes,1
